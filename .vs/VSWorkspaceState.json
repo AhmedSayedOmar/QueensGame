@@ -1,0 +1,16 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\core",
+    "\\tests",
+    "\\ui"
+  ],
+  "SelectedNode": "\\tests\\board_test.cpp",
+  "PreviewInSolutionExplorer": false
+}
